@@ -21,3 +21,4 @@ Orchestrates the full order lifecycle. The most cross-linked service in the plat
 5. **notification-service** — send order confirmation
 
 See `BUSINESS_RULES.md` for order management rules.
+# accuracy test trigger
